@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "mazaver": {
+      "commandName": "Project",
+      "commandLineArgs": "/s"
+    }
+  }
+}
